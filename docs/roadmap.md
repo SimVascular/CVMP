@@ -1,6 +1,6 @@
 # CVMP Roadmap
 
-> ![NOTE]
+> [!NOTE]
 > This document is a work in progress and is subject to change
 
 The CVMP represents the next architecture around a public repository for cardiovascular and vascular models.

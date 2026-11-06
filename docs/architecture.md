@@ -1,6 +1,6 @@
 # CVMP Architecture
 
-> ![NOTE]
+> [!NOTE]
 > This document is a work in progress and is subject to change
 
 ## Key Takeaways
