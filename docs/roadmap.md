@@ -17,19 +17,19 @@ The CVMP represents the next architecture around a public repository for cardiov
 
 Determine feasibility by pressure testing working architecture and design choices
 
-[ ] Establish prototype of new backend and frontend (Alex)
+- [ ] Establish prototype of new backend and frontend (Alex)
 
-    [ ] Create mock SQLite database covering data tagged with Cases and Papers
-    [ ] Create a mockup frontend, allowing for custom filtering Cases and Papers of the same backend
-    [ ] Investigate feasibility of client-side parsing of larger SQLite databse in front-end using mocked large database
+    - [ ] Create mock SQLite database covering data tagged with Cases and Papers
+    - [ ] Create a mockup frontend, allowing for custom filtering Cases and Papers of the same backend
+    - [ ] Investigate feasibility of client-side parsing of larger SQLite databse in front-end using mocked large database
 
-[ ] Establish prototype of ingestion check scripts (Numi)
+- [ ] Establish prototype of ingestion check scripts (Numi)
 
-    [ ] Create a mesh check abstraction using a single existing check.
-    [ ] Assemble a minimal "use case" check by applying a series of primitive (indivisible) steps.
-    [ ] Apply the "use case" check to an existing legacy dataset.
+    - [ ] Create a mesh check abstraction using a single existing check.
+    - [ ] Assemble a minimal "use case" check by applying a series of primitive (indivisible) steps.
+    - [ ] Apply the "use case" check to an existing legacy dataset.
 
-[ ] Determine feasibility of parallel
+- [ ] Determine feasibility of parallel
 
 ### 2. Migration Phase
 
