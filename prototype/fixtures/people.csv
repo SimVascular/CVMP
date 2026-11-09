@@ -1,0 +1,166 @@
+﻿person_id,display_name,given_name,family_name,orcid,openalex_id,identity_status,identity_source_url
+1,Aaron O Panduro,Aaron O,Panduro,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/38162830/
+2,Abhay B Ramachandra,Abhay B,Ramachandra,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/27447176/
+3,Aekaansh Verma,Aekaansh,Verma,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/34294733/
+4,Akash P Kansagra,Akash P,Kansagra,,,publication_author_verified,https://openalex.org/W2124613122
+5,Alison L Marsden,Alison L,Marsden,0000-0003-1902-171X,A5087790536,externally_verified,https://openalex.org/A5087790536
+6,Allyson J Weiss,Allyson J,Weiss,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/38162830/
+7,Amirhossein Arzani,Amirhossein,Arzani,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/39276470/
+8,Ana K Ortiz,Ana K,Ortiz,,,creator_identity_verified,https://pubmed.ncbi.nlm.nih.gov/24895523/
+9,Ana Natalia L Sy-Quia,Ana Natalia L,Sy-Quia,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+10,Anca M Pașca,Anca M,Pașca,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+11,Andrew M Kahn,Andrew M,Kahn,,,publication_author_verified,https://openalex.org/W2101558308
+12,Andrew R Yates,Andrew R,Yates,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/34294733/
+13,Anna M Sailer,Anna M,Sailer,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/31993829/
+14,Arcot Sowmya,Arcot,Sowmya,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/36899014/
+15,Arjun Menon,Arjun,Menon,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/22079597/
+16,Aubrey M Hands,Aubrey M,Hands,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+17,Beverly T Tang,Beverly T,Tang,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/20640512/
+18,Brian C Raftrey,Brian C,Raftrey,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+19,Brian W McCrindle,Brian W,McCrindle,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/30728104/
+20,Bruno Oliveira,Bruno,Oliveira,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+21,C Alberto Figueroa,C Alberto,Figueroa,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/21801315/
+22,C Ellis,C,Ellis,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/36899014/
+23,Charles A Taylor,Charles A,Taylor,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/20412482/
+24,Chi Shen,Chi,Shen,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/39309260/
+25,Chia-Yen Lee,Chia-Yen,Lee,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+26,Chris Ellis,Chris,Ellis,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+27,Christopher K Breuer,Christopher K,Breuer,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/34294733/
+28,Christopher K Cook,Christopher K,Cook,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+29,Chung-Ming Chen,Chung-Ming,Chen,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+30,Craig J Goergen,Craig J,Goergen,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37897230/
+31,D Adikari,D,Adikari,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/36899014/
+32,Daniel B Ennis,Daniel B,Ennis,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/36994169/
+33,Daniel Bernstein,Daniel,Bernstein,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+34,David C Wendell,David C,Wendell,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/22079597/
+35,Debanjan Mukherjee,Debanjan,Mukherjee,0000-0002-7080-1757,,externally_verified,https://vivo.colorado.edu/display/fisid_164181
+36,Derrick Laurel,Derrick,Laurel,,,creator_identity_verified,https://3dqlab.stanford.edu/meet-the-team/
+37,Dibyendu Sengupta,Dibyendu,Sengupta,,,publication_author_verified,https://openalex.org/W2101558308
+38,Doff B McElhinney,Doff B,McElhinney,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/38341399/
+39,Dominik Fleischmann,Dominik,Fleischmann,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/31993829/
+40,Dona Adikari,Dona,Adikari,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+41,Eric C Wong,Eric C,Wong,,,publication_author_verified,https://openalex.org/W2124613122
+42,Eric S Jensen,Eric S,Jensen,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/22079597/
+43,Erica L Schwarz,Erica L,Schwarz,0000-0003-3219-6653,,externally_verified,https://pubmed.ncbi.nlm.nih.gov/36686891/
+44,Ethan Kung,Ethan,Kung,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/24722951/
+45,Evan H Phillips,Evan H,Phillips,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37897230/
+46,Evan J Zucker,Evan J,Zucker,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/32618514/
+47,Frandics P Chan,Frandics P,Chan,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/20412482/
+48,Frank L Hanley,Frank L,Hanley,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/29194961/
+49,Frank R Arko,Frank R,Arko,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/16393794/
+50,Gabriel Mistelbauer,Gabriel,Mistelbauer,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/31993829/
+51,Gaetano D'Amato,Gaetano,D'Amato,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+52,Galina A Lyskina,Galina A,Lyskina,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/24722951/
+53,Gerhard A Holzapfel,Gerhard A,Holzapfel,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/39401111/
+54,Gregory T Adamson,Gregory T,Adamson,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35253446/
+55,Guillaume Troianowski,Guillaume,Troianowski,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/22168738/
+56,Han Zhu,Han,Zhu,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/32240496/
+57,Hongfeng Wang,Hongfeng,Wang,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/22079597/
+58,Hyun Jin Kim,Hyun Jin,Kim,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/22010743/
+59,Ian M Williams,Ian M,Williams,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+60,Ingrid S Lan,Ingrid S,Lan,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35253446/
+61,Irene E Vignon-Clementel,Irene E,Vignon-Clementel,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/21801315/
+62,Jack Boyd,Jack,Boyd,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/32240496/
+63,Jacob C Zbinden,Jacob C,Zbinden,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/34294733/
+64,Jacqueline Kreutzer,Jacqueline,Kreutzer,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35253446/
+65,Jane C Burns,Jane C,Burns,,,publication_author_verified,https://openalex.org/W2101558308
+66,Jason M Szafron,Jason M,Szafron,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/34294733/
+67,Jay D Humphrey,Jay D,Humphrey,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/34294733/
+68,Jeffrey A Feinstein,Jeffrey A,Feinstein,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/20412482/
+69,Jeffrey M Toth,Jeffrey M,Toth,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/22079597/
+70,Jingjie Hu,Jingjie,Hu,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/39276470/
+71,João L Vilaça,João L,Vilaça,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+72,John F LaDisa Jr,John F,LaDisa,0000-0002-2339-743X,,externally_verified,https://www.csauthors.net/john-f-ladisa-jr/
+73,John M Kelly,John M,Kelly,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/34294733/
+74,John S Tamaresis,John S,Tamaresis,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/32618514/
+75,Jongmin Seo,Jongmin,Seo,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/36939959/
+76,Joseph R Cava,Joseph R,Cava,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/21801315/
+77,Judith Zimmermann,Judith,Zimmermann,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/36994169/
+78,Jun Li,Jun,Li,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+79,Jun Ma,Jun,Ma,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+80,Justin S Tran,Justin S,Tran,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/30728104/
+81,K Ellenberger,K,Ellenberger,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/36899014/
+82,Kan N Hor,Kan N,Hor,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/34294733/
+83,Karthik Menon,Karthik,Menon,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/36939959/
+84,Kathrin Bäumler,Kathrin,Bäumler,0000-0002-2126-5919,,externally_verified,https://profiles.stanford.edu/kathrin-baeumler
+85,Katy Ellenberger,Katy,Ellenberger,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+86,Kenneth Wang,Kenneth,Wang,,,creator_identity_verified,https://www-tcad.stanford.edu/tcad/reports/academia-final.pdf
+87,Kevin M Blum,Kevin M,Blum,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/34294733/
+88,Koen Nieman,Koen,Nieman,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+89,Kristy Red Horse,Kristy Red,Horse,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+90,Laura M Ellwein,Laura M,Ellwein,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/22010743/
+91,Lek Wei Seow,Lek Wei,Seow,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+92,M Webster,M,Webster,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/36899014/
+93,Mahdi Esmaily Moghadam,Mahdi Esmaily,Moghadam,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/24722951/
+94,Malte Rolf-Pissarczyk,Malte,Rolf-Pissarczyk,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/39401111/
+95,Margaret M Samyn,Margaret M,Samyn,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/21801315/
+96,Marlene Rabinovitch,Marlene,Rabinovitch,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/30635853/
+97,Martin R Pfaller,Martin R,Pfaller,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+98,Mathew Mathew,Mathew,Mathew,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/30728104/
+99,Matthew D Bockman,Matthew D,Bockman,,,publication_author_verified,https://openalex.org/W2124613122
+100,Matthew R Bersi,Matthew R,Bersi,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/28186882/
+101,Melody L Dong,Melody L,Dong,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/30635853/
+102,Michael Loecher,Michael,Loecher,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/36994169/
+103,Michael Ma,Michael,Ma,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35253446/
+104,Michael P Fischbein,Michael P,Fischbein,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/31993829/
+105,Michelle Leppert,Michelle,Leppert,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/40630592/
+106,Mingming Zhao,Mingming,Zhao,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+107,Mingzi Zhang,Mingzi,Zhang,0000-0002-0118-1160,,externally_verified,https://pmc.ncbi.nlm.nih.gov/articles/PMC11416812/
+108,Muhammad Owais Khan,Muhammad Owais,Khan,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/32240496/
+109,Nan Xiao,Nan,Xiao,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/22010743/
+110,Nathan M Wilson,Nathan M,Wilson,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/16393794/
+111,Neel D Jani,Neel D,Jani,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/40630592/
+112,Nicholas A Telischak,Nicholas A,Telischak,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/38162830/
+113,Noelia Grande Gutiérrez,Noelia Grande,Gutiérrez,0000-0002-7827-4752,A5090383833,externally_verified,https://gradlum.com/carnegie-mellon-university/mechanical-engineering/noelia-grande-gutierrez-c2c387
+114,Numi Sveinsson Cepero,Numi Sveinsson,Cepero,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/39292327/
+115,Olga Shirinsky,Olga,Shirinsky,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/24722951/
+116,Pamela E Rios Coronado,Pamela E Rios,Coronado,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+117,Paolo Di Achille,Paolo Di,Achille,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/28186882/
+118,Paul M Larsen,Paul M,Larsen,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/22079597/
+119,Peter Chiu,Peter,Chiu,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/31993829/
+120,Philip S Tsao,Philip S,Tsao,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/20640512/
+121,Priya J Nair,Priya J,Nair,0000-0001-6326-9777,,externally_verified,https://pubmed.ncbi.nlm.nih.gov/42282208/
+122,R Gharleghi,R,Gharleghi,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/36899014/
+123,R Thomas Collins 2nd,R Thomas,Collins,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35253446/
+124,Raabid Hussain,Raabid,Hussain,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+125,Ramtin Gharleghi,Ramtin,Gharleghi,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+126,René R Sevag Packard,René R Sevag,Packard,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/32240496/
+127,Ricardo Roopnarinesingh,Ricardo,Roopnarinesingh,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/40630592/
+128,Richard Schussnig,Richard,Schussnig,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/39401111/
+129,Ronak J Dholakia,Ronak J,Dholakia,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/21801315/
+130,Ronald P Karlsberg,Ronald P,Karlsberg,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/32240496/
+131,Ruochen Gao,Ruochen,Gao,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+132,Ryuji Fukazawa,Ryuji,Fukazawa,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/36939959/
+133,S Beier,S,Beier,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/36899014/
+134,S Ooi,S,Ooi,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/36899014/
+135,Sahana Kumar,Sahana,Kumar,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/32618514/
+136,Sarah S Pickard,Sarah S,Pickard,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/23372931/
+137,Sawan K Jha,Sawan K,Jha,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+138,Sen Yang,Sen,Yang,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+139,Seraina A Dual,Seraina A,Dual,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/38341399/
+140,Sethuraman Sankaran,Sethuraman,Sankaran,,,publication_author_verified,https://openalex.org/W2101558308
+141,Shawn C Shadden,Shawn C,Shadden,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/20412482/
+142,Shunichi Ogawa,Shunichi,Ogawa,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/36939959/
+143,Stephanie E Lindsey,Stephanie E,Lindsey,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/34294733/
+144,Suhaas Anbazhakan,Suhaas,Anbazhakan,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+145,Susann Beier,Susann,Beier,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+146,Sze-Yuan Ooi,Sze-Yuan,Ooi,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+147,Thomas J Eddinger,Thomas J,Eddinger,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/22079597/
+148,Thomas R Geisbush,Thomas R,Geisbush,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/38162830/
+149,Thomas-Peter Fries,Thomas-Peter,Fries,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/39401111/
+150,Tim A Fonte,Tim A,Fonte,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/20640512/
+151,Toshiharu Shin'oka,Toshiharu,Shin'oka,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/34294733/
+152,Tyler Andrew Smith,Tyler Andrew,Smith,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/39276470/
+153,Tyler E Cork,Tyler E,Cork,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/36994169/
+154,V Mohan Reddy,V Mohan,Reddy,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/20412482/
+155,Vijay Vedula,Vijay,Vedula,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/31993829/
+156,Weiguang Yang,Weiguang,Yang,0000-0003-3324-4346,,externally_verified,https://orcid.org/0000-0003-3324-4346
+157,Xiaochen Fan,Xiaochen,Fan,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+158,Xiyue Wang,Xiyue,Wang,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+159,Yaolei Qi,Yaolei,Qi,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+160,Younes Tatari,Younes,Tatari,0009-0005-4786-0475,,externally_verified,https://www.csauthors.net/younes-tatari/
+161,Youssef Skandarani,Youssef,Skandarani,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+162,Yuting He,Yuting,He,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
+163,Zachary A Sexton,Zachary A,Sexton,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/38162830/
+164,Zhainib A Amir,Zhainib A,Amir,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/37305211/
+165,Ziwei Nie,Ziwei,Nie,,,publication_author_verified,https://pubmed.ncbi.nlm.nih.gov/35334316/
